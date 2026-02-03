@@ -1,5 +1,6 @@
 'use client';
 
+//console
 
 export default function Home() {
   return (
