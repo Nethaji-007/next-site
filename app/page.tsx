@@ -52,5 +52,4 @@ export default function Home() {
     </div>
   );
 }
-console.log('feature branch change');
-console.log("log in new branch")
+//import Image from 'next/image'
