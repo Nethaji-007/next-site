@@ -53,5 +53,4 @@ export default function Home() {
   );
 }
 console.log('feature branch change');
-console.log("blaaaaaaaaaaaaaaaaaa")
-console.log("blaaaaaaaaaaaaaaaaaa")
+console.log("log in new branch")
