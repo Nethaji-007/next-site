@@ -53,3 +53,4 @@ export default function Home() {
   );
 }
 //import Image from 'next/image'
+console.log("Home page loaded");
