@@ -1,4 +1,5 @@
 'use client';
+import Image from 'next/image'
 
 //console
 
@@ -52,4 +53,4 @@ export default function Home() {
     </div>
   );
 }
-//import Image from 'next/image'
+
